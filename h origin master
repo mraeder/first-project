@@ -1,0 +1,36 @@
+[33mcommit 1df3b3d422f415d6b48ab54edc904af175c060bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c1fddb3 4c7737c
+Author: Marisa <mraeder11@gmail.com>
+Date:   Mon Dec 28 19:10:07 2020 -0600
+
+    Merge branch 'master' of https://github.com/mraeder/first-project
+
+[33mcommit c1fddb3ce6048fe47725b0257b66e53764953f3e[m
+Author: Marisa <mraeder11@gmail.com>
+Date:   Mon Dec 28 19:09:28 2020 -0600
+
+    add home.html
+
+[33mcommit 4c7737cb40ed1e081fcdb535bc0af2e44f57130e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Marisa Raeder <63648231+mraeder@users.noreply.github.com>
+Date:   Mon Dec 28 19:07:22 2020 -0600
+
+    Create file.txt
+
+[33mcommit b97aba67162e04359ddb21b325dc762fc6f9778a[m
+Author: Marisa <mraeder11@gmail.com>
+Date:   Mon Dec 28 18:52:18 2020 -0600
+
+    button click, ignore log files
+
+[33mcommit 33380c0f915ee17955e7e5a4879c006e86b252f8[m
+Author: Marisa <mraeder11@gmail.com>
+Date:   Mon Dec 28 17:50:11 2020 -0600
+
+    added JavaScript
+
+[33mcommit 7f613f783edbeeed381bc2675724db1b36a01f20[m
+Author: Marisa <mraeder11@gmail.com>
+Date:   Mon Dec 28 17:47:12 2020 -0600
+
+    initial commit
